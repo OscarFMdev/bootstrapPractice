@@ -1,0 +1,19 @@
+.navbar-brand {
+  color: purple !important;
+  font-weight: bolder;
+}
+
+#main {
+  margin-top: 100px;
+}
+
+.bg-image {
+  background-image: url("./images/Headerbg.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: calc(100vh - 110px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
